@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+# Custom Application Configuration
+application:
+  name: devfest-dakar
+  version: 1.0
+  env: prod
+
+springdoc:
+  swagger-ui:
+    path: /devfest-demo/docs
