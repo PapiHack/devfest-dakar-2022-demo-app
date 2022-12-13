@@ -20,6 +20,7 @@ public class AppController {
     public String healthy() {
         return this.appService.serviceHealthy("DevFest Demo App is healthy !");
     }
+
     @GetMapping("/service/ready")
     public String ready() {
         return this.appService.serviceReady("DevFest Demo App is ready !");

@@ -13,6 +13,7 @@ public class AppServiceImpl implements AppService {
     public AppServiceImpl(ApplicationProperties applicationProperties) {
         this.applicationProperties = applicationProperties;
     }
+
     @Override
     public String serviceHealthy(String message) {
         return message;
