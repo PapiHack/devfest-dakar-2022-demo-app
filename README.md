@@ -1,4 +1,4 @@
-# DevFest Demo App
+# 🚀 DevFest Demo App 🚀
 
 [![Java](https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=Java&logoColor=white)](https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=Java&logoColor=white)
 [![spring-boot](https://img.shields.io/badge/spring%20boot-3776AB?style=for-the-badge&logo=spring-boot&logoColor=white)](https://img.shields.io/badge/spring-3776AB?style=for-the-badge&logo=spring-boot&logoColor=white)
