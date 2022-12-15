@@ -43,12 +43,12 @@ After cloning the project:
 
 - Run the following command in order to build a docker image
 ```bash
-docker build -t devfest-dakar-demo-app:staging-2002-01 .
+docker build -t devfest-dakar-demo-app:develop-2002-01 .
 ```
 
 - Run the following command in order run a container
 ```bash
-docker run -d -p 8080:8080 --name devfest-dakar-demo-app devfest-dakar-demo-app:staging-2002-01
+docker run -d -p 8080:8080 --name devfest-dakar-demo-app devfest-dakar-demo-app:develop-2002-01
 ```
 
 - Then go to your browser at: <http://localhost:8080/devfest-demo/docs> 😊
