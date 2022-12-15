@@ -5,7 +5,7 @@ server:
 application:
   name: devfest-dakar
   version: 1.0
-  env: prod
+  env: staging
 
 springdoc:
   swagger-ui:
