@@ -1,5 +1,9 @@
 # 🚀 DevFest Demo App 🚀
 
+<p align="center">
+  <a href="https://gdg.community.dev/events/details/google-gdg-dakar-presents-devfest-dakar-22/" target="blank"><img src="./screenshots/devfest-2022.png" width="200" alt="Devfest-2022" /></a>
+</p>
+
 [![Java](https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=Java&logoColor=white)](https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=Java&logoColor=white)
 [![spring-boot](https://img.shields.io/badge/spring%20boot-3776AB?style=for-the-badge&logo=spring-boot&logoColor=white)](https://img.shields.io/badge/spring-3776AB?style=for-the-badge&logo=spring-boot&logoColor=white)
 [![MIT licensed](https://img.shields.io/badge/license-mit-blue?style=for-the-badge&logo=appveyor)](LICENSE)
