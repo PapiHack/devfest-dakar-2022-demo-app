@@ -9,7 +9,7 @@
 [![MIT licensed](https://img.shields.io/badge/license-mit-blue?style=for-the-badge&logo=appveyor)](LICENSE)
 [![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-This repo contains the application code of my demo at `DevFest Dakar 2020` on `Continuous Deployment and GitOps in Kubernetes with ArgoCD`.  
+This repo contains the application code of my demo at `DevFest Dakar 2022` on `Continuous Deployment and GitOps in Kubernetes with ArgoCD`.  
 The application is basically a REST API built with `Spring Boot` driven by a simple architecture.
 
 ## Technical Stack
