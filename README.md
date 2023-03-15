@@ -4,10 +4,13 @@
   <a href="https://gdg.community.dev/events/details/google-gdg-dakar-presents-devfest-dakar-22/" target="blank"><img src="./screenshots/devfest-2022.png" width="200" alt="Devfest-2022" /></a>
 </p>
 
-[![Java](https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=Java&logoColor=white)](https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=Java&logoColor=white)
+[![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)  
+![Issues](https://img.shields.io/github/issues/PapiHack/devfest-dakar-2022-demo-app?style=for-the-badge&logo=appveyor)
+![PR](https://img.shields.io/github/issues-pr/PapiHack/devfest-dakar-2022-demo-app?style=for-the-badge&logo=appveyor)
+[![Java](https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=openjdk&logoColor=white)](https://img.shields.io/badge/java-3776AB?style=for-the-badge&logo=openjdk&logoColor=white)
 [![spring-boot](https://img.shields.io/badge/spring%20boot-3776AB?style=for-the-badge&logo=spring-boot&logoColor=white)](https://img.shields.io/badge/spring-3776AB?style=for-the-badge&logo=spring-boot&logoColor=white)
 [![MIT licensed](https://img.shields.io/badge/license-mit-blue?style=for-the-badge&logo=appveyor)](LICENSE)
-[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source-175x29.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 This repo contains the application code of my demo at `DevFest Dakar 2022` on `Continuous Deployment and GitOps in Kubernetes with ArgoCD`.  
 The application is basically a REST API built with `Spring Boot` driven by a simple architecture.
